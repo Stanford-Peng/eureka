@@ -1,0 +1,31 @@
+{
+    "code": 200,
+    "msg": "success",
+    "result": {
+      "date": "2023-08-19",
+      "week": "Tuesday",
+      "province": "Melbourne",
+      "area": "Melbourne",
+      "areaid": "101020100",
+      "weather": "sunny to cloudy",
+      "weatherimg": "cloudy.png",
+      "weathercode": "sunnyCloudy",
+      "real": "18℃",
+      "lowest": "6℃",
+      "highest": "22℃",
+      "wind": "northeast wind",
+      "windspeed": "7",
+      "windsc": "Level 1-2",
+      "sunrise": "06:10",
+      "sunset": "18:31",
+      "moonrise": "06:02",
+      "moondown": "17:22",
+      "pcpn": "0.0",
+      "uv_index": "9",
+      "aqi": "34",
+      "quality": "优",
+      "vis": "25",
+      "humidity": "23",
+      "tips": "The weather is warm, suitable for spring and autumn transitional clothes such as short suits made of single-layer cotton and linen fabrics, T-shirts, thin denim pants, casual clothes, and professional suits. Please increase or decrease clothes appropriately for the elderly and infirm. The air quality is excellent, go outside and breathe the fresh air."
+    }
+  }
