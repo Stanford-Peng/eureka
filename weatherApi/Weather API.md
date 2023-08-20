@@ -27,9 +27,9 @@ Response Body
 | Application Parameters  |
 | date | string | 2020-05-23 | Date |
 | week | string | Monday | Day of the week |
-| province | string | Shanghai | Province |
 | area | string | Shanghai | Area (City/District/County) |
 | areaid | string | 101020100 | City weather ID |
+| city | string | Melbourne | Alert city |
 | weather | string | Clear to Cloudy | Weather conditions |
 | weatherimg | string | duoyun.png | Weather icon |
 | weathercode | string | qing_duoyun | Weather process code |
@@ -49,10 +49,3 @@ Response Body
 | quality | string | Excellent | Air quality description (not available for the next seven days) |
 | vis | string | 9 | Visibility (kilometers) |
 | humidity | string | 23 | Relative humidity (%) |
-| +province | string | Shanghai | Alert province |
-| +city | string | Shanghai | Alert city |
-| +level | string | Yellow | Alert level |
-| +type | string | Fog | Alert type |
-| +content | string | Shanghai Meteorological Center issues a yellow fog warning signal... | Alert content |
-| +time | string | 2020-05-23 20:30:00 | Alert time |
-| tips | string | The weather is warm and suitable for single-layer clothing... | Life index tips |
