@@ -29,7 +29,7 @@ This sequence diagram illustrates the process by which users can scan receipts t
 
 # Cloud Solution Design
 The following diagram provides a preliminary design for constructing a cloud-native backend system.
-![Cloud Solution Design](https://github.com/Stanford-Peng/eureka/blob/main/pictures/eurika.drawio.png?raw=true)
+![Cloud Solution Design](https://github.com/Stanford-Peng/eureka/blob/main/pictures/eureka.drawio.png?raw=true)
 
 
 
