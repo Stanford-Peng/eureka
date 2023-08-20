@@ -14,6 +14,7 @@ The above diagram describes the main components of the backend system: Itinerary
 
 
 ## Front-end: Mobile App
+![Tap and earn animation](https://github.com/Stanford-Peng/eureka/assets/38175724/ad5ca79a-ed92-4363-8fed-146826bd7340)
 
 
 
