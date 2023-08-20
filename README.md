@@ -14,6 +14,16 @@ The above diagram describes the main components of the backend system: Itinerary
 
 
 ## Front-end: Mobile App
+
+<div style="display: flex;">
+
+      <img src="https://github.com/Stanford-Peng/eureka/blob/main/pictures/Persona%20Profile%20animation.gif?raw=true" style="flex:1">
+
+      <img src="https://github.com/Stanford-Peng/eureka/blob/main/pictures/Recommendation%20and%20Itenerary%20animation.gif?raw=true" style="flex:1;">
+
+      <img src="https://github.com/Stanford-Peng/eureka/assets/38175724/ad5ca79a-ed92-4363-8fed-146826bd7340" style="flex:1;">
+</div>
+
 ![Perona Profile Animation](https://github.com/Stanford-Peng/eureka/blob/main/pictures/Persona%20Profile%20animation.gif?raw=true)
 ![Recommendation Itinerary Animation](https://github.com/Stanford-Peng/eureka/blob/main/pictures/Recommendation%20and%20Itenerary%20animation.gif?raw=true)
 ![Tap and earn animation](https://github.com/Stanford-Peng/eureka/assets/38175724/ad5ca79a-ed92-4363-8fed-146826bd7340)
