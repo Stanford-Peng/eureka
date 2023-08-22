@@ -41,6 +41,6 @@ This sequence diagram illustrates the process by which users can scan receipts t
 # Cloud Solution Design
 The following diagram provides a preliminary design for constructing a cloud-native backend system.
 ![Cloud Solution Design](https://github.com/Stanford-Peng/eureka/blob/main/pictures/eureka.drawio.png?raw=true)
-
-
+The backend system comprise of cloud run, cloud sql and memorystore redis. They sit behind the loadbalancer protected by cloud armour and third-party authentication -- salesforce.
+Using GCP workload identity federation to store user info in salesforce can help admins better analyze the user profiles and perform other marketing activities.
 
